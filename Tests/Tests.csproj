@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TwoNumberSum\TwoNumberSum.csproj" />
+    <ProjectReference Include="..\ValidateSubsequence\ValidateSubsequence.csproj" />
   </ItemGroup>
 
 </Project>
