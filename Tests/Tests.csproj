@@ -20,6 +20,7 @@
     <ProjectReference Include="..\TwoNumberSum\TwoNumberSum.csproj" />
     <ProjectReference Include="..\ValidateSubsequence\ValidateSubsequence.csproj" />
     <ProjectReference Include="..\SortedSquaredArray\SortedSquaredArray.csproj" />
+    <ProjectReference Include="..\TournamentWinner\TournamentWinner.csproj" />
   </ItemGroup>
 
 </Project>
