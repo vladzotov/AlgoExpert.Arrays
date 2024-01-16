@@ -21,6 +21,7 @@
     <ProjectReference Include="..\ValidateSubsequence\ValidateSubsequence.csproj" />
     <ProjectReference Include="..\SortedSquaredArray\SortedSquaredArray.csproj" />
     <ProjectReference Include="..\TournamentWinner\TournamentWinner.csproj" />
+    <ProjectReference Include="..\TransposeMatrix\TransposeMatrix.csproj" />
   </ItemGroup>
 
 </Project>
