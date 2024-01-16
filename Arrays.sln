@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentWinner", "Tournam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransposeMatrix", "TransposeMatrix\TransposeMatrix.csproj", "{196F0CFC-FCA2-4AD9-BE3D-46451EB5609C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonConstructibleChange", "NonConstructibleChange\NonConstructibleChange.csproj", "{3D33A0C4-AE70-4D37-B004-247F18337C5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{196F0CFC-FCA2-4AD9-BE3D-46451EB5609C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196F0CFC-FCA2-4AD9-BE3D-46451EB5609C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196F0CFC-FCA2-4AD9-BE3D-46451EB5609C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D33A0C4-AE70-4D37-B004-247F18337C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D33A0C4-AE70-4D37-B004-247F18337C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D33A0C4-AE70-4D37-B004-247F18337C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D33A0C4-AE70-4D37-B004-247F18337C5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
