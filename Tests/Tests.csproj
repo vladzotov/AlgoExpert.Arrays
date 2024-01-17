@@ -24,6 +24,7 @@
     <ProjectReference Include="..\TransposeMatrix\TransposeMatrix.csproj" />
     <ProjectReference Include="..\NonConstructibleChange\NonConstructibleChange.csproj" />
     <ProjectReference Include="..\MoveElementToEnd\MoveElementToEnd.csproj" />
+    <ProjectReference Include="..\MonotonicArray\MonotonicArray.csproj" />
   </ItemGroup>
 
 </Project>

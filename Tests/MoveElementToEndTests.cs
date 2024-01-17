@@ -3,7 +3,7 @@
 namespace Tests;
 
 [TestClass]
-public class MoveElementToEnd
+public class MoveElementToEndTests
 {
     [TestMethod]
     public void MoveElementToEnd_DefaultCase_ChangedArray()
