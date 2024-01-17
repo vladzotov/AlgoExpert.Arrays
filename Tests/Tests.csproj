@@ -23,6 +23,7 @@
     <ProjectReference Include="..\TournamentWinner\TournamentWinner.csproj" />
     <ProjectReference Include="..\TransposeMatrix\TransposeMatrix.csproj" />
     <ProjectReference Include="..\NonConstructibleChange\NonConstructibleChange.csproj" />
+    <ProjectReference Include="..\MoveElementToEnd\MoveElementToEnd.csproj" />
   </ItemGroup>
 
 </Project>
