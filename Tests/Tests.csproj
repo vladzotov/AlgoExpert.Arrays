@@ -25,6 +25,7 @@
     <ProjectReference Include="..\NonConstructibleChange\NonConstructibleChange.csproj" />
     <ProjectReference Include="..\MoveElementToEnd\MoveElementToEnd.csproj" />
     <ProjectReference Include="..\MonotonicArray\MonotonicArray.csproj" />
+    <ProjectReference Include="..\SmallestDifference\SmallestDifference.csproj" />
   </ItemGroup>
 
 </Project>
