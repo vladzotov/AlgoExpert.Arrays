@@ -27,6 +27,7 @@
     <ProjectReference Include="..\MonotonicArray\MonotonicArray.csproj" />
     <ProjectReference Include="..\SmallestDifference\SmallestDifference.csproj" />
     <ProjectReference Include="..\FirstDuplicateValue\FirstDuplicateValue.csproj" />
+    <ProjectReference Include="..\MissingNumbers\MissingNumbers.csproj" />
   </ItemGroup>
 
 </Project>
