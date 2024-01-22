@@ -28,6 +28,7 @@
     <ProjectReference Include="..\SmallestDifference\SmallestDifference.csproj" />
     <ProjectReference Include="..\FirstDuplicateValue\FirstDuplicateValue.csproj" />
     <ProjectReference Include="..\MissingNumbers\MissingNumbers.csproj" />
+    <ProjectReference Include="..\SpiralTraverse\SpiralTraverse.csproj" />
   </ItemGroup>
 
 </Project>

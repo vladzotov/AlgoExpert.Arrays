@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstDuplicateValue", "Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumbers", "MissingNumbers\MissingNumbers.csproj", "{E2B9915E-5536-499C-9221-2F693C659104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralTraverse", "SpiralTraverse\SpiralTraverse.csproj", "{EE43EE5D-77FD-486A-B079-9C6FCDB9ABB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{E2B9915E-5536-499C-9221-2F693C659104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B9915E-5536-499C-9221-2F693C659104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B9915E-5536-499C-9221-2F693C659104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE43EE5D-77FD-486A-B079-9C6FCDB9ABB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE43EE5D-77FD-486A-B079-9C6FCDB9ABB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE43EE5D-77FD-486A-B079-9C6FCDB9ABB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE43EE5D-77FD-486A-B079-9C6FCDB9ABB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
