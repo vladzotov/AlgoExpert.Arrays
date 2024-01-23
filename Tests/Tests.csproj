@@ -29,6 +29,7 @@
     <ProjectReference Include="..\FirstDuplicateValue\FirstDuplicateValue.csproj" />
     <ProjectReference Include="..\MissingNumbers\MissingNumbers.csproj" />
     <ProjectReference Include="..\SpiralTraverse\SpiralTraverse.csproj" />
+    <ProjectReference Include="..\ThreeNumberSum\ThreeNumberSum.csproj" />
   </ItemGroup>
 
 </Project>
